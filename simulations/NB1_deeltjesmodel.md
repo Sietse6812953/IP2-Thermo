@@ -12,8 +12,7 @@ De basis van een goede computer simulatie ligt, net als bij het oplossen van een
 Als startopdracht modelleren we twee fietsers. Doorloop de bovenstaande drie stappen. 
 ```
 
-
-
+hjj
 
 ## Numerieke modellen
 Om een simulatie te maken, splitsen we het volledige proces op in kleine stappen met een vaste (tijd)interval, zoals in onderstaande figuur. Elk stapje krijgt een nummer, van $0$ tot $N$. We gebruiken de letter $i$ om naar een specifieke stap te verwijzen.
